@@ -1,6 +1,6 @@
 # Topology Optimization with FEniCSx
 
-![Cover Image](images/Cover.png)
+[![Cover Image](images/Cover.png)](https://ablfazl.hashnode.dev/fenicsx-topology-optimization)
 
 This repository contains the complete code for the Topology Optimization with FEniCSx tutorial.
 For a detailed walkthrough and explanation, check out the full blog post:
